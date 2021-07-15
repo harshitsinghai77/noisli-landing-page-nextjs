@@ -1,9 +1,10 @@
 import { memo } from "react";
+import { APP_NAME } from "../utils/constants";
 
 const Section1 = () => (
   <section className="headline-with-button">
     <div>
-      <h1>Be productive with Noisli</h1>
+      <h1>Be productive with {APP_NAME}</h1>
       <p>
         Life can feel overwhelming, but it doesn’t have to. Todoist lets you
         keep track of everything in one place, so you can get it all done and

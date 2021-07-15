@@ -1,6 +1,8 @@
+import { APP_NAME } from "./utils/constants";
+
 export default {
   siteMetadata: {
-    title: "Noisli",
+    title: APP_NAME,
     author: {
       name: "Harshit Singhai",
       summary: "Software Engineer",

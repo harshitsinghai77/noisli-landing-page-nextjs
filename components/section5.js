@@ -1,3 +1,5 @@
+import { APP_NAME } from "../utils/constants";
+
 export default function Section5() {
   return (
     <section className="email-signup">
@@ -7,9 +9,8 @@ export default function Section5() {
         </div>
         <div>
           <p>
-            Get notified about updates and be the first to get early access to
-            the become more productive and focus Facebook social iconInstagram
-            social icon.
+            Get notified about updates and be the first to get early access. Be
+            more productive with {APP_NAME}.
           </p>
         </div>
       </div>

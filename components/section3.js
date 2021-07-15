@@ -1,3 +1,5 @@
+import { APP_NAME } from "../utils/constants";
+
 export default function Section3() {
   return (
     <section className="text-info">
@@ -7,11 +9,11 @@ export default function Section3() {
           alt="Checkbox icon"
         />
         <div>
-          <h2>Noisli is your digital place for focus.</h2>
+          <h2>{APP_NAME} is your digital place for focus.</h2>
         </div>
         <div>
           <p>
-            With Noisli you can mix and match different sounds in order to
+            With {APP_NAME} you can mix and match different sounds in order to
             create your perfect sound environment. We currently offer 28 high
             quality background sounds that you can play individually or combine
             with each other. You can adjust the volume for each sound in order
