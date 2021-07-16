@@ -9,15 +9,23 @@ const Header = () => (
     </div>
     <div className="menu">
       <ul>
-        <li className="language-switcher">
+        <li>
           <a href="/">Homepage</a>
         </li>
-        <li className="language-switcher">
-          <a href="/about-us">About us</a>
+        <li>
+          <a href="/about-us">About</a>
         </li>
         <li>
-          <a className="flag-icon flag-icon-fr" href="/fr-fr">
-            Fuck me
+          <a target="_blank" href="https://noisli.netlify.app/">
+            Get Started
+          </a>
+        </li>
+        <li>
+          <a
+            target="_blank"
+            href="https://fictionally-irrelevant.vercel.app/posts/noisli-your-digital-place-to-focus"
+          >
+            Learn More
           </a>
         </li>
       </ul>

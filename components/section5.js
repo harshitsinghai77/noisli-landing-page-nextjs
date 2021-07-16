@@ -24,7 +24,9 @@ export default function Section5() {
           name="FirstName"
           placeholder="Enter email to recieve updates."
         />
-        <input type="submit" className="btn" value="Join our Newsletters" />
+        <a href="https://noisli.netlify.app/" target="_blank">
+          <input type="submit" className="btn" value="Join our Newsletters" />
+        </a>
       </div>
     </section>
   );

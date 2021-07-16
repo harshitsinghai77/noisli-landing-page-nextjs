@@ -6,10 +6,21 @@ const Section1 = () => (
     <div>
       <h1>Be productive with {APP_NAME}</h1>
       <p>
-        Life can feel overwhelming, but it doesn’t have to. Todoist lets you
-        keep track of everything in one place, so you can get it all done and
-        enjoy more peace of mind along the way.
+        We provide background sounds that help to mask annoying noises in order
+        to keep you sane, improve your focus and boost your productivity.
       </p>
+
+      <section className="get-started">
+        <div className="form">
+          <a href="https://noisli.netlify.app/" target="_blank">
+            <input
+              type="submit"
+              className="btn"
+              value="Get Started with Noisli"
+            />
+          </a>
+        </div>
+      </section>
     </div>
     <div className="button">
       <img src="/images/rocket.svg" width="10%" alt="To the moon" />

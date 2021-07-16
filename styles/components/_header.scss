@@ -24,7 +24,7 @@ header {
       vertical-align: text-top;
 
       @media only screen and (min-width: $min-width-md) {
-        width: 75%;
+        width: 65%;
       }
     }
 
@@ -36,19 +36,6 @@ header {
       @media only screen and (min-width: $min-width-md) {
         margin: 20px 0 20px 30px;
       }
-
-      .language-switcher {
-        .flag-icon-us {
-          color: transparent;
-          background: url("/images/us.svg") center center no-repeat;
-        }
-
-        .flag-icon-fr {
-          color: transparent;
-          background: url("/images/us.svg") center center no-repeat;
-        }
-      }
-
       a {
         color: inherit;
         display: inline-block;

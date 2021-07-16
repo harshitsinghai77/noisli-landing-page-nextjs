@@ -4,10 +4,7 @@ export default function Section3() {
   return (
     <section className="text-info">
       <div className="left-column">
-        <img
-          src="https://nextjs-multi-language-site.vercel.app/images/top-icon.png"
-          alt="Checkbox icon"
-        />
+        {/* <img src="/images/noisli_logo.png" alt="Checkbox icon" /> */}
         <div>
           <h2>{APP_NAME} is your digital place for focus.</h2>
         </div>
