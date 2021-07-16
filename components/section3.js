@@ -29,7 +29,7 @@ export default function Section3() {
             order to keep you sane, improve your focus and boost your
             productivity.
           </p>
-          <h3>Get Visualization on how your day went.</h3>
+          <h3>Keep track of your day.</h3>
           <p>
             Our anlytics helps you with insights on how your week went and how
             much hours were your productive each day.

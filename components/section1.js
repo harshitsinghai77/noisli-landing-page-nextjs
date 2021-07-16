@@ -6,8 +6,9 @@ const Section1 = () => (
     <div>
       <h1>Be productive with {APP_NAME}</h1>
       <p>
-        We provide background sounds that help to mask annoying noises in order
-        to keep you sane, improve your focus and boost your productivity.
+        Noisli is your little helper and companion no matter if you need to
+        focus, tune out other noises or if you want to have a moment of calm and
+        relax.
       </p>
 
       <section className="get-started">
