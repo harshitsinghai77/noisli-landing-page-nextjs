@@ -19,10 +19,9 @@ export default function AboutUs() {
               focused and relax.
             </p>
             <p>
-              Noisli timer helps you keeps tracks of the time you've spent. The
-              analytics help you get insight on how you've spent your last 7
-              days and help you get a clear and concise picture of your
-              productivity.
+              Noisli helps you keep track of your time.The analytics help you
+              get insight on how you've spent your last 7 days. This gives you a
+              clear and concise picture of your productivity.
             </p>
 
             <h3>Self-started with passion</h3>
