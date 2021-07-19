@@ -19,9 +19,10 @@ export default function AboutUs() {
               focused and relax.
             </p>
             <p>
-              Our timer keeps tracks of the time you've been focused and
-              productive. You can keep track of the last seven days with our
-              chart visualization.
+              Noisli timer helps you keeps tracks of the time you've spent. The
+              analytics help you get insight on how you've spent your last 7
+              days and help you get a clear and concise picture of your
+              productivity.
             </p>
 
             <h3>Self-started with passion</h3>
