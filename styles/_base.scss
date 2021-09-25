@@ -38,7 +38,7 @@ button:focus {
 main,
 header,
 footer {
-  padding: 30px 60px;
+  // padding: 30px 60px;
   margin: 0 auto;
 }
 
@@ -54,7 +54,6 @@ main {
     padding: 38px 80px;
   }
 }
-
 
 @media only screen and (min-width: $min-width-xl) {
   header,

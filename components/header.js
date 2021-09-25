@@ -16,14 +16,14 @@ const Header = () => (
           <a href="/about-us">About</a>
         </li>
         <li>
-          <a target="_blank" href="https://nemp-app.netlify.app/">
+          <a target="_blank" href="https://nemo-app.netlify.app/">
             Get Started
           </a>
         </li>
         <li>
           <a
             target="_blank"
-            href="https://fictionally-irrelevant.vercel.app/posts/noisli-your-digital-place-to-focus"
+            href="https://fictionally-irrelevant.vercel.app/posts/nemo-your-digital-place-to-focus"
           >
             Learn More
           </a>

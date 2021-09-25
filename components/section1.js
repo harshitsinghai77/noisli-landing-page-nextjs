@@ -23,7 +23,7 @@ const Section1 = () => (
       </section>
     </div>
     <div className="button">
-      <img src="/images/rocket.svg" width="10%" alt="To the moon" />
+      <img src="/images/rocket.svg" width="80%" alt="To the moon" />
     </div>
   </section>
 );
