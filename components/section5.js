@@ -24,7 +24,7 @@ export default function Section5() {
           name="FirstName"
           placeholder="Enter email to recieve updates."
         />
-        <a href="https://noisli.netlify.app/" target="_blank">
+        <a href="https://nemo-app.netlify.app/" target="_blank">
           <input type="submit" className="btn" value="Take me home" />
         </a>
       </div>

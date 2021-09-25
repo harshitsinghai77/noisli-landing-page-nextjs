@@ -8,7 +8,7 @@ export default {
       summary: "Software Engineer",
     },
     description: "Your digital place for focus.",
-    siteUrl: "https://noisli.netlify.app/",
+    siteUrl: "https://nemo-app.netlify.app/",
     language: "en-US",
     social: {
       github: "https://github.com/harshitsinghai77",

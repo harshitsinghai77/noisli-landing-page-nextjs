@@ -6,18 +6,17 @@ const Section1 = () => (
     <div>
       <h1>Be productive with {APP_NAME}</h1>
       <p>
-        Noisli is your little helper and companion no matter if you need to
-        focus, tune out other noises or if you want to have a moment of calm and
-        relax.
+        Nemo is your little helper and companion no matter if you need to focus,
+        tune out other noises or if you want to have a moment of calm and relax.
       </p>
 
       <section className="get-started">
         <div className="form">
-          <a href="https://noisli.netlify.app/" target="_blank">
+          <a href="https://nemo-app.netlify.app/" target="_blank">
             <input
               type="submit"
               className="btn"
-              value="Get Started with Noisli"
+              value="Get Started with Nemo"
             />
           </a>
         </div>

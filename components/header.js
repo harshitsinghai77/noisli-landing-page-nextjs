@@ -16,7 +16,7 @@ const Header = () => (
           <a href="/about-us">About</a>
         </li>
         <li>
-          <a target="_blank" href="https://noisli.netlify.app/">
+          <a target="_blank" href="https://nemp-app.netlify.app/">
             Get Started
           </a>
         </li>

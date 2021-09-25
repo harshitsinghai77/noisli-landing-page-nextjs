@@ -19,7 +19,7 @@ export default function AboutUs() {
               focused and relax.
             </p>
             <p>
-              Noisli timer helps you keep track of your time. Get clear and
+              {APP_NAME} timer helps you keep track of your time. Get clear and
               concise picture of your productivity with our analytics. Our
               analytics help you get insight on how you've spent the last 7
               days.

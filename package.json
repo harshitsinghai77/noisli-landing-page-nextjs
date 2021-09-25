@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export && netlify deploy --prod",
-    "build-aws": "next build && next export && aws s3 sync ./out/ s3://noisli-landing-page-bucket/",
+    "build-aws": "next build && next export && aws s3 sync ./out/ s3://nemo-landing-page-bucket/",
     "start": "next start"
   },
   "dependencies": {
