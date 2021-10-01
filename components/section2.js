@@ -2,7 +2,7 @@ export default function Section2() {
   return (
     <section className="full-width-image auto-grid">
       <div className="main-img">
-        <img src="/images/noisli_1.png" alt="" />
+        <img src="/images/nemo_1.png" alt="" />
       </div>
       <div className="background left-bg">
         <img

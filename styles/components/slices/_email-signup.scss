@@ -122,4 +122,16 @@
       cursor: pointer;
     }
   }
+
+  .img {
+    display: flex;
+    align-self: center;
+    width: 10%;
+
+    @media only screen and (min-width: $min-width-l) {
+      display: flex;
+      justify-content: flex-end;
+      width: 80%;
+    }
+  }
 }

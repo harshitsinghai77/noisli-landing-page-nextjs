@@ -4,7 +4,7 @@ const Header = () => (
   <header>
     <div className="menu">
       <a href="/">
-        <img className="logo" src="/images/noisli_logo.png" alt="Site logo" />
+        <img className="logo" src="/images/nemo_logo.png" alt="Site logo" />
       </a>
     </div>
     <div className="menu">

@@ -8,7 +8,7 @@ export default class MyDocument extends Document {
     return (
       <Html lang={siteMetadata.language}>
         <Head>
-          <link rel="shortcut icon" href="/images/noisli.ico" />
+          <link rel="shortcut icon" href="/images/nemo.ico" />
         </Head>
         <body>
           <Main />
