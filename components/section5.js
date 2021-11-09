@@ -28,9 +28,9 @@ export default function Section5() {
           <input type="submit" className="btn" value="Take me home" />
         </a>
       </div>
-      <div className="img">
+      {/* <div className="img">
         <img src="/images/rocket.svg" width="80%" alt="Nemo" />
-      </div>
+      </div> */}
     </section>
   );
 }

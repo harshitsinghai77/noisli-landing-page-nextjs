@@ -1,19 +1,20 @@
 import { memo } from "react";
+import Link from "next/link";
 
 const Header = () => (
   <header>
     <div className="menu">
-      <a href="/">
+      <Link href="/">
         <img className="logo" src="/images/nemo_logo.png" alt="Site logo" />
-      </a>
+      </Link>
     </div>
     <div className="menu">
       <ul>
         <li>
-          <a href="/">Homepage</a>
+          <Link href="/">Homepage</Link>
         </li>
         <li>
-          <a href="/about-us">About</a>
+          <Link href="/about-us">About</Link>
         </li>
         <li>
           <a target="_blank" href="https://nemo-app.netlify.app/">

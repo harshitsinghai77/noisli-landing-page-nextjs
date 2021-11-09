@@ -19,10 +19,9 @@ export default function AboutUs() {
               focused and relax.
             </p>
             <p>
-              {APP_NAME} timer helps you keep track of your time. Get clear and
-              concise picture of your productivity with our analytics. Our
-              analytics help you get insight on how you've spent the last 7
-              days.
+              {APP_NAME} timer helps you keep track of your time. Keep track of
+              your productivity with our analytics. Our analytics help you get
+              insight on how you've spent the last 7 days.
             </p>
 
             <h3>Self-started with passion</h3>
