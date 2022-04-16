@@ -16,6 +16,17 @@ export default function Section3() {
             with each other. You can adjust the volume for each sound in order
             to customize your combinations to your needs and make them your own.
           </p>
+
+          <h3>
+            No matter where you are working from, once out of focus, it takes
+            you an average of 25 minutes to fully focus again!
+          </h3>
+          <p>
+            Distractions are everywhere and most of the time you have very
+            little control over them: a sound notification from your phone or
+            computer, someone on a call next to you, people coming in and out,
+            or a simple thought you’re having in your mind giving you no rest.
+          </p>
         </div>
       </div>
       <div className="right-column">
@@ -31,26 +42,28 @@ export default function Section3() {
           </p>
           <h3>Keep track of your day.</h3>
           <p>
-            Our anlytics helps you with insights on how your week went and how
-            much hours were your productive each day.
+            Our anlytics helps you to measure your productivity. The
+            visualization helps you have a clear picture of your unproductive
+            days and also helps with other insights on how your week went.
           </p>
-          <h3>
-            No matter where you are working from, once out of focus, it takes
-            you an average of 25 minutes to fully focus again!
-          </h3>
+
+          <h3>Focus your energy to concentrate better.</h3>
           <p>
-            Distractions are everywhere and most of the time you have very
-            little control over them: a sound notification from your phone or
-            computer, someone on a call next to you, people coming in and out,
-            or a simple thought you’re having in your mind giving you no rest.
+            With our Timer, students or working professionals can stay
+            concentrated in small blocks of time in order to be more efficient
+            without draining too much energy. Moreover, frequent breaks allow
+            you to recharge and enter the next session fresh and energized. The
+            length of the Timer and the Breaks can be customized individually by
+            each user.
           </p>
-          <h3>Focus your energy to study better.</h3>
+
+          <h3>Get Better Insights</h3>
           <p>
-            With our Timer, students can stay concentrated in small blocks of
-            time in order to be more efficient without draining too much energy.
-            Moreover, frequent breaks allow students to recharge and enter the
-            next session fresh and energized. The length of the Timer and the
-            Breaks can be customized individually by each user.
+            We also provide additional insights. Such as your best day and how
+            much far away are you from your goal. You can configure your week
+            goal depending on your work. We will tell you which day was the best
+            week day and how many more hours you need to put in to reach your
+            week goal.
           </p>
         </div>
       </div>

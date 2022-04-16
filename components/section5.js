@@ -9,8 +9,7 @@ export default function Section5() {
         </div>
         <div>
           <p>
-            Get notified about updates and be the first to get early access. Be
-            more productive with {APP_NAME}.
+            Get notified about updates and be the first to get early access.
           </p>
         </div>
       </div>
