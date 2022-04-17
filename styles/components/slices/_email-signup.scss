@@ -45,6 +45,10 @@
   flex-direction: column;
   align-items: center;
 
+  @media only screen and (max-width: $min-width-s) {
+    padding: 30px;
+  }
+
   @media only screen and (min-width: $min-width-l) {
     flex-direction: row;
     justify-content: space-between;

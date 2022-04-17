@@ -23,10 +23,14 @@
   align-items: center;
   text-align: center;
 
+  @media only screen and (max-width: $min-width-s) {
+    padding: 30px;
+  }
+
   @media only screen and (min-width: $min-width-l) {
     display: flex;
     flex-direction: row;
-    padding-top: 40px;
+    // padding-top: 40px;
     text-align: inherit;
   }
 
@@ -37,7 +41,7 @@
     @media only screen and (min-width: $min-width-l) {
       max-width: 616px;
       line-height: inherit;
-      font-size: 100px;
+      font-size: 90px;
       letter-spacing: 0;
       font-weight: 600;
     }
