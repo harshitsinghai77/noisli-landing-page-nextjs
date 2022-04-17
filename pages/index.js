@@ -5,6 +5,7 @@ import {
   Section3,
   Section4,
   Section5,
+  Section6,
   Footer,
 } from "../components";
 
@@ -18,6 +19,7 @@ function Home() {
           <Section2 />
           <Section3 />
           <Section4 />
+          <Section6 />
           <Section5 />
         </div>
       </main>

@@ -7,7 +7,8 @@ const Section1 = () => (
       <h1>Be productive with {APP_NAME}</h1>
       <p>
         Nemo is your little helper and companion no matter if you need to focus,
-        tune out other noises or if you want to have a moment of calm and relax.
+        tune out other noises or if you want to have a moment of calm and
+        relaxation.
       </p>
 
       <section className="get-started">

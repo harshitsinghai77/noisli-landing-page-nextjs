@@ -11,7 +11,7 @@ export default function Section3() {
         <div>
           <p>
             With {APP_NAME} you can mix and match different sounds in order to
-            create your perfect sound environment. We currently offer 28 high
+            create your perfect sound environment. We currently offer 16 high
             quality background sounds that you can play individually or combine
             with each other. You can adjust the volume for each sound in order
             to customize your combinations to your needs and make them your own.
@@ -26,6 +26,16 @@ export default function Section3() {
             little control over them: a sound notification from your phone or
             computer, someone on a call next to you, people coming in and out,
             or a simple thought you’re having in your mind giving you no rest.
+          </p>
+
+          <h3>Personalize everything.</h3>
+          <p>
+            Which background color help you relax and stay calm, after how much
+            second do you need it to change? Do you want all colors or do you
+            want a specific color? How many session do you plan to do each day?
+            How much long should each session last? Nemo is highly customizable.
+            We want to help you create your perfect environment so that you can
+            have undistracted focus and do your best and most amazing work.
           </p>
         </div>
       </div>
@@ -64,6 +74,14 @@ export default function Section3() {
             goal depending on your work. We will tell you which day was the best
             week day and how many more hours you need to put in to reach your
             week goal.
+          </p>
+
+          <h3>Default Settings</h3>
+          <p>
+            We don't ask you unnecessary questions to help you identify your
+            perfect environment. Nemo comes with default settings, you can
+            always edit settings based on your preferences to create your
+            focused environment.
           </p>
         </div>
       </div>
