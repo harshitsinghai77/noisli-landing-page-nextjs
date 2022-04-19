@@ -19,7 +19,7 @@ export default function AboutUs() {
               focused and relax.
             </p>
             <p>
-              Our analytics will help you keep track of your productivity and
+              {APP_NAME} analytics help you keep track of your productivity and
               focussed session with weekly insights and much more.
             </p>
 

@@ -33,9 +33,10 @@ export default function Section3() {
             Which background color help you relax and stay calm, after how much
             second do you need it to change? Do you want all colors or do you
             want a specific color? How many session do you plan to do each day?
-            How much long should each session last? Nemo is highly customizable.
-            We want to help you create your perfect environment so that you can
-            have undistracted focus and do your best and most amazing work.
+            How much long should each session last? {APP_NAME} is highly
+            customizable. We want to help you create your perfect environment so
+            that you can have undistracted focus and do your best and most
+            amazing work.
           </p>
         </div>
       </div>
@@ -79,7 +80,7 @@ export default function Section3() {
           <h3>Default Settings</h3>
           <p>
             We don't ask you unnecessary questions to help you identify your
-            perfect environment. Nemo comes with default settings, you can
+            perfect environment. {APP_NAME} comes with default settings, you can
             always edit settings based on your preferences to create your
             focused environment.
           </p>
