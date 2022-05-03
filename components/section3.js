@@ -4,7 +4,7 @@ export default function Section3() {
   return (
     <section className="text-info">
       <div className="left-column">
-        {/* <img src="/images/noisli_logo.png" alt="Checkbox icon" /> */}
+        {/* <img src="/images/nemo_logo.png" alt="Checkbox icon" /> */}
         <div>
           <h2>{APP_NAME} is your digital place for focus.</h2>
         </div>
