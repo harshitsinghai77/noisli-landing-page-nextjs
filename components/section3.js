@@ -42,6 +42,11 @@ export default function Section3() {
       </div>
       <div className="right-column">
         <div>
+          <h3>Why Nemo?</h3>
+          <p>
+            We believe that the way to create something great is to create
+            something simple. Nemo is the simplest productivity app ever.
+          </p>
           <h3>
             Mix different sounds and create your perfect sound environment to
             work and relax.

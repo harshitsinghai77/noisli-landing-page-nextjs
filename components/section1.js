@@ -10,7 +10,6 @@ const Section1 = () => (
         focus, tune out other noises or if you want to have a moment of calm and
         relaxation.
       </p>
-
       <section className="get-started">
         <div className="form">
           <a href="https://nemo-app.netlify.app/" target="_blank">
