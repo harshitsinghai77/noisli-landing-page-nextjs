@@ -1,8 +1,7 @@
 .full-width-image {
   position: relative;
   margin-top: 0;
-  padding-top: 0;
-
+  padding: 0 10px;
 
   @media only screen and (min-width: $min-width-xl) {
     position: relative;

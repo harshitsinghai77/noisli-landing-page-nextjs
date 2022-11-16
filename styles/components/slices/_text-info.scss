@@ -1,7 +1,9 @@
 .text-info {
+  padding: 30px;
   @media only screen and (max-width: $min-width-s) {
     padding: 30px;
   }
+
 
   @media only screen and (min-width: $min-width-l) {
     display: flex;
