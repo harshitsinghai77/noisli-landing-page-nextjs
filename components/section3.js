@@ -11,10 +11,10 @@ export default function Section3() {
         <div>
           <p>
             With {APP_NAME} you can mix and match different sounds in order to
-            create your perfect sound environment. We currently offer 16 high
-            quality background sounds that you can play individually or combine
-            with each other. You can adjust the volume for each sound in order
-            to customize your combinations to your needs and make them your own.
+            create your perfect environment. We currently offer 16 high quality
+            background sounds that you can play individually or combine with
+            each other. You can adjust the volume for each sound in order to
+            customize your combinations to your needs and make them your own.
           </p>
 
           <h3>
@@ -48,8 +48,8 @@ export default function Section3() {
             something simple. Nemo is the simplest productivity app ever.
           </p>
           <h3>
-            Mix different sounds and create your perfect sound environment to
-            work and relax.
+            Mix different sounds and create your perfect environment to work and
+            relax.
           </h3>
           <p>
             We provide background sounds that help to mask annoying noises in

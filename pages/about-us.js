@@ -13,10 +13,9 @@ export default function AboutUs() {
             <p>{APP_NAME} is your digital place for focus.</p>
             <p>
               With {APP_NAME} you can mix and match different sounds in order to
-              create your perfect sound environment. In places where it is
-              either too loud or too quiet, {APP_NAME} helps to mask annoying
-              noises and to create a pleasant sound environment in order to stay
-              focused and relax.
+              create your perfect environment. In places where it is either too
+              loud or too quiet, {APP_NAME} helps to mask annoying noises and to
+              create a pleasant environment in order to stay focused and relax.
             </p>
             <p>
               {APP_NAME} analytics help you keep track of your productivity and
