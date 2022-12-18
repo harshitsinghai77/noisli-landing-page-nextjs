@@ -63,15 +63,9 @@ export default function App({ Component, pageProps }) {
         />
         <meta property="og:image" content="https://iili.io/HfzCEbe.png" />
         <meta
-          property="og:url"
-          content="https://nemo-landing-page.netlify.app/"
-        />
-        <meta
           property="og:site_name"
           content="Nemo is your digital place for focus."
         />
-        <meta property="og:locale" content="en_US" />
-        <meta property="og:type" content="website" />
       </Head>
       <Component {...pageProps} />
     </>
