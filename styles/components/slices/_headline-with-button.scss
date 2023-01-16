@@ -20,6 +20,29 @@
     font-size: 24px;
     margin-top: 20px;
   }
+
+  a {
+    position: relative;
+    text-decoration: none;
+    color: black;
+  }
+  a:before {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: palevioletred;
+    transition: width 0.3s ease-in-out;
+  }
+  a:hover:before {
+    width: 100px;
+  }
+
+  .pinkColored {
+    color: palevioletred;
+  }
 }
 
 .headline-with-button {

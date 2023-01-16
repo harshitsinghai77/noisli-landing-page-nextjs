@@ -19,13 +19,13 @@ export default function App({ Component, pageProps }) {
         ></meta>
 
         <meta name="description" content="Focus with Nemo!" />
-        <meta name="image" content="https://iili.io/HfzCEbe.png" />
+        <meta name="image" content="https://iili.io/HAE3MTF.png" />
         <meta itemProp="name" content="Nemo" />
         <meta
           itemProp="description"
           content="Nemo is your little helper and companion no matter if you need to focus, tune out other noises or if you want to have a moment of calm and relaxation."
         />
-        <meta itemProp="image" content="https://iili.io/HfzCEbe.png" />
+        <meta itemProp="image" content="https://iili.io/HAE3MTF.png" />
 
         <meta
           name="keywords"
@@ -44,14 +44,14 @@ export default function App({ Component, pageProps }) {
         />
         <meta name="twitter:site" content="@harshit_778" />
         <meta name="twitter:creator" content="@harshit_778" />
-        <meta name="twitter:image" content="https://iili.io/HfzCEbe.png" />
-        <meta name="twitter:image:src" content="https://iili.io/HfzCEbe.png" />
+        <meta name="twitter:image" content="https://iili.io/HAE3MTF.png" />
+        <meta name="twitter:image:src" content="https://iili.io/HAE3MTF.png" />
         <meta name="og:title" content="Be productive with Nemo" />
         <meta
           name="og:description"
           content="Nemo is your little helper and companion no matter if you need to focus, tune out other noises or if you want to have a moment of calm and relaxation."
         />
-        <meta name="og:image" content="https://iili.io/HfzCEbe.png" />
+        <meta name="og:image" content="https://iili.io/HAE3MTF.png" />
         <meta name="og:url" content="https://nemo-landing-page.netlify.app/" />
         <meta name="og:site_name" content="Be productive with Nemo" />
         <meta name="og:locale" content="en_US" />
@@ -61,7 +61,7 @@ export default function App({ Component, pageProps }) {
           property="og:description"
           content="We provide background sounds that help to mask annoying noises in order to keep you sane, improve your focus and boost your productivity."
         />
-        <meta property="og:image" content="https://iili.io/HfzCEbe.png" />
+        <meta property="og:image" content="https://iili.io/HAE3MTF.png" />
         <meta
           property="og:site_name"
           content="Nemo is your digital place for focus."

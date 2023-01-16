@@ -22,9 +22,12 @@ const Header = () => (
           </a>
         </li>
         <li>
+          <Link href="/other-products">Check other Products</Link>
+        </li>
+        <li>
           <a
             target="_blank"
-            href="https://fictionally-irrelevant.vercel.app/posts/nemo-your-digital-place-to-focus"
+            href="https://fictionally-irrelevant.vercel.app/posts/be-productive-with-nemo"
           >
             Learn More
           </a>
