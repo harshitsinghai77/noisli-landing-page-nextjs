@@ -6,14 +6,14 @@ export default function OtherProduct() {
       <main>
         <section className="about-us">
           <div>
-            <a href="https://nemo-app.netlify.app/lofi" target="_blank">
+            <a href="https://nemo-lofi.netlify.app/" target="_blank">
               <h3 className="pinkColored">Nemo Lofi</h3>
             </a>
             <p>
               Nemo Lofi is a lofi music player by Nemo that allows you to listen
               to lofi sounds to help you focus, be productive and get work done.
             </p>
-            <a href="https://nemo-thread.deta.dev" target="_blank">
+            <a href="https://nemothread-1-e7133226.deta.app/" target="_blank">
               <h3 className="pinkColored">Nemo Thread</h3>
             </a>
             <p>
