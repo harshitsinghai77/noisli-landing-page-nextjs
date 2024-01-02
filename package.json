@@ -4,14 +4,14 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export && netlify deploy --prod",
-    "build-aws": "next build && next export && aws s3 sync ./out/ s3://nemo-landing-page-bucket/",
+    "build": "next build && netlify deploy --prod",
+    "build-aws": "next build && aws s3 sync ./out/ s3://nemo-landing-page-bucket/",
     "start": "next start"
   },
   "dependencies": {
-    "next": "^10.0.0",
-    "react": "17.0.1",
-    "react-dom": "17.0.1",
-    "sass": "^1.35.2"
+    "next": "^14.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "sass": "^1.69.6"
   }
 }
