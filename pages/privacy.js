@@ -74,8 +74,8 @@ export default function AboutUs() {
             <ul>
               <li>
                 <strong>Access and update your information:</strong> You can
-                access and update your information at any time by visiting{" "}
-                {APP_NAME} settings.
+                access and update your information at any time by visiting the
+                settings page.
               </li>
               <li>
                 <strong>Opt-out of analytics:</strong> You can choose to opt-out
