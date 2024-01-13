@@ -6,13 +6,6 @@ export default function OtherProduct() {
       <main>
         <section className="about-us">
           <div>
-            <a href="https://nemo-lofi.netlify.app/" target="_blank">
-              <h3 className="pinkColored">Nemo Lofi</h3>
-            </a>
-            <p>
-              Nemo Lofi is a lofi music player by Nemo that allows you to listen
-              to lofi sounds to help you focus, be productive and get work done.
-            </p>
             <a href="https://nemo-hirefolio.netlify.app/" target="_blank">
               <h3 className="pinkColored">Nemo Hirefolio</h3>
             </a>
@@ -29,6 +22,13 @@ export default function OtherProduct() {
               required. Just mention{" "}
               <span className="pinkColored">@focus_with_nemo</span> and you're
               done.
+            </p>
+            <a href="https://nemo-lofi.netlify.app/" target="_blank">
+              <h3 className="pinkColored">Nemo Lofi</h3>
+            </a>
+            <p>
+              Nemo Lofi is a lofi music player by Nemo that allows you to listen
+              to lofi sounds to help you focus, be productive and get work done.
             </p>
           </div>
         </section>
