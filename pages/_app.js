@@ -1,5 +1,6 @@
 import Head from "next/head";
 
+import { Header, Footer } from "../components";
 import { getSiteMetaData } from "../utils/helpers";
 import "../styles/main.scss";
 
@@ -8,9 +9,9 @@ export default function App({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>
+        {/* <title>
           {siteMetadata.title} - {siteMetadata.description}
-        </title>
+        </title> */}
         <meta charSet="UTF-8"></meta>
         <meta httpEquiv="X-UA-Compatible" content="IE=edge"></meta>
         <meta
@@ -67,7 +68,9 @@ export default function App({ Component, pageProps }) {
           content="Nemo is your digital place for focus."
         />
       </Head>
+      <Header />
       <Component {...pageProps} />
+      <Footer />
     </>
   );
 }

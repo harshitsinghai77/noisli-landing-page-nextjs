@@ -1,10 +1,10 @@
 import { Header, Footer } from "../components";
 import { APP_NAME } from "../utils/constants";
 
-export default function AboutUs() {
+export default function Privacy() {
   return (
     <>
-      <Header />
+      {/* <Header /> */}
       <main>
         <section className="about-us">
           <div>
@@ -105,7 +105,6 @@ export default function AboutUs() {
           </div>
         </section>
       </main>
-      <Footer />
     </>
   );
 }

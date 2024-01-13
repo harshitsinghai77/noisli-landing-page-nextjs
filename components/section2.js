@@ -10,6 +10,15 @@ export default function Section2() {
           alt="Background pattern"
         />
       </div>
+      <div className="main-img">
+        <img src="/images/nemo_3.png" alt="" />
+      </div>
+      <div className="background left-bg">
+        <img
+          src="https://nextjs-multi-language-site.vercel.app/images/full-width-image-background.png"
+          alt="Background pattern"
+        />
+      </div>
     </section>
   );
 }
