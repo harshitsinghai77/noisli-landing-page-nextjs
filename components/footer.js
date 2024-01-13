@@ -2,7 +2,7 @@ import { memo } from "react";
 
 const Footer = () => (
   <footer>
-    <p className="copyright">2023 © Harshit Singhai</p>
+    <p className="copyright">2024 © Harshit Singhai</p>
     <div className="social">
       <a href="https://github.com/harshitsinghai77" target="_blank">
         <img src="/images/github-logo.png" alt="Github social icon" />
