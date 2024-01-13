@@ -32,6 +32,9 @@ const Header = () => (
             Learn More
           </a>
         </li>
+        <li>
+          <Link href="/privacy">Privacy</Link>
+        </li>
       </ul>
     </div>
   </header>
