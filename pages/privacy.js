@@ -10,9 +10,6 @@ export default function AboutUs() {
           <div>
             <h2> {APP_NAME} Privacy Policy</h2>
             <p>
-              <strong>
-                Welcome to {APP_NAME}, your digital focus to focus!
-              </strong>{" "}
               We understand that your privacy is important, and this policy
               outlines how we collect, use, and protect your information.
             </p>
@@ -77,7 +74,7 @@ export default function AboutUs() {
             <ul>
               <li>
                 <strong>Access and update your information:</strong> You can
-                access and update your information at any time by visiting your
+                access and update your information at any time by visiting{" "}
                 {APP_NAME} settings.
               </li>
               <li>
@@ -98,8 +95,8 @@ export default function AboutUs() {
             </ul>
             <h5>Contact us:</h5>
             If you have any questions about this privacy policy or your
-            information, please feel free to contact us at
-            harshitsinghai77@gmail.com
+            information, please feel free to contact us at{" "}
+            <span className="pinkColored">harshitsinghai77@gmail.com</span>
             <p>
               All the Best
               <br />
