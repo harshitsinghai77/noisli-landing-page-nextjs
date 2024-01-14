@@ -1,17 +1,13 @@
 import Head from "next/head";
 
 import { Header, Footer } from "../components";
-import { getSiteMetaData } from "../utils/helpers";
 import "../styles/main.scss";
 
 export default function App({ Component, pageProps }) {
-  const siteMetadata = getSiteMetaData();
   return (
     <>
       <Head>
-        {/* <title>
-          {siteMetadata.title} - {siteMetadata.description}
-        </title> */}
+        <title>Nemo - Your digital place for focus</title>
         <meta charSet="UTF-8"></meta>
         <meta httpEquiv="X-UA-Compatible" content="IE=edge"></meta>
         <meta
